@@ -1,0 +1,6 @@
+Non-existent user yangjunx, please enter again!
+Wrong password yangjunxx for user yangjun, please enter again!
+Electronic-Sales Counter is started successfully by user yangjun!
+Invalid command
+SalesID01 cancelled!
+User yangjun has successfully logged off!
